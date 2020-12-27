@@ -25,11 +25,11 @@ function App() {
           <span>Salto de Pirapora</span>
         </div>
 
-        <a href="https://www.natura.com.br/consultoria/xrogers" target="_blank" className="enter-natura">
+        <a href="https://www.natura.com.br/consultoria/xrogers" className="enter-natura">
           <img src={imgNatura} alt="Consultoria Natura" />
         </a>
 
-        <a href="https://www.magazinevoce.com.br/magazinexrogers" target="_blank" className="enter-magalu">
+        <a href="https://www.magazinevoce.com.br/magazinexrogers" className="enter-magalu">
           <img src={imgMagalu} alt="Loja Parceira Magalu" />
         </a>
 
