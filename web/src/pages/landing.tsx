@@ -5,9 +5,6 @@ import '../styles/pages/landing.css'
 
 import logoImg from '../images/logo.png'
 
-{/*import logoMagalu from './images/magalu.png'
-import imgNatura from './images/natura.png''*/}
-
 function Landing() {
   return (
     <div id="page-landing">
@@ -26,11 +23,16 @@ function Landing() {
           <span>Salto de Pirapora</span>
         </div>
 
-        <a href="" className="enter-natura">
+        <a href="https://www.natura.com.br/consultoria/xrogers" className="enter-natura">
           <FiArrowRight size={26} color="rgba(0, 0, 0, 0.6)" />
         </a>
 
-        {/*<a href="https://www.magazinevoce.com.br/magazinexrogers" className="enter-magalu">
+        {/*
+        
+import logoMagalu from './images/magalu.png'
+import imgNatura from './images/natura.png'
+
+        <a href="https://www.magazinevoce.com.br/magazinexrogers" className="enter-magalu">
           <img src={imgMagalu} alt="Loja Parceira Magalu" />
         </a>
         
