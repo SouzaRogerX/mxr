@@ -8,8 +8,10 @@ import teste from './pages/teste';
 function Routes() {
   return (
     <BrowserRouter>
+    <Switch>
       <Route path="/land" component={Landing} />
       <Route path="/teste" component={teste} />
+      </Switch>
     </BrowserRouter>
   );
 }
