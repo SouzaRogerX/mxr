@@ -10,7 +10,7 @@ function Routes() {
     <BrowserRouter>
     <Switch>
       <Route path="/land" component={Landing} />
-      <Route path="/teste" component={teste} />
+      <Route path="/" component={teste} />
       </Switch>
     </BrowserRouter>
   );
