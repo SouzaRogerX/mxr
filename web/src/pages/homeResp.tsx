@@ -5,8 +5,8 @@ import Global from "../styles/global"
 import Home from "../pages/home/home"
 
 import logoImg from '../images/logo.png'
-import imgNatura from '../images/natura.png'
-import imgMagalu from '../images/magalu.png'
+import imgNatura from '../images/natura2.png'
+import imgMagalu from '../images/magalu1.png'
 
 const data = [
   {
