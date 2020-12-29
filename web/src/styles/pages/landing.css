@@ -58,7 +58,7 @@
   font-weight: 800;
 }
 
-.content-wrapper .enter-natura{
+.content-wrapper .enter-app{
   position: absolute;
   right: 0;
   bottom: 0;
@@ -75,6 +75,6 @@
   transition: background-color 0.2s;
 }
 
-.content-wrapper .enter-natura:hover{
+.content-wrapper .enter-app:hover{
   background: #96feff;
 }
