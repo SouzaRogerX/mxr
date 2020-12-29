@@ -10,7 +10,7 @@ function Routes() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/" component={HomeResp} />
+        <Route path="/" exact component={HomeResp} />
         <Route path="/land" component={Landing} />
         <Route path="/home" component={home} />
       </Switch>

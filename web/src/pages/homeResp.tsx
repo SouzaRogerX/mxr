@@ -1,36 +1,40 @@
 import React from "react";
 
-import Global from "../styles/global";
+import Global from "../styles/global"
 
-import Home from "../pages/home/home";
+import Home from "../pages/home/home"
 
-const lorem =
-  "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, sed iure blanditiis voluptatum nulla quidem minus quam tempora obcaecati necessitatibus inventore! Vitae totam quam pariatur facilis fugit maxime adipisci eaque.";
+import logoImg from '../images/logo.png'
+import imgNatura from '../images/natura.png'
+import imgMagalu from '../images/magalu.png'
 
 const data = [
   {
     id: Math.random(),
-    title: "Box titulo 1",
-    text: lorem,
-    bgColor: "#D5CAFA"
+    title: "Grupo Exclusivo no WhatsApp",
+    text: "Neste grupo exclusivo no WhatsApp todos os dias você encontra as melhores ofertas",
+    bgColor: "#00E676",
+    link:"https://chat.whatsapp.com/5Vg6POBjtch9NUZmg6IgrM",
+    img: logoImg,
+    alt: "Grupo WhatsApp"
   },
   {
     id: Math.random(),
-    title: "Box titulo 2",
-    text: lorem,
-    bgColor: "#EDA9A9"
+    title: "Consultoria Natura",
+    text: "Aqui você encontra os melhores precos nos produtos Natura",
+    bgColor: "#F86D2A",
+    link:"https://www.natura.com.br/consultoria/xrogers",
+    img: imgNatura,
+    alt: "Consultoria Natura"
   },
   {
     id: Math.random(),
-    title: "Box titulo 3",
-    text: lorem,
-    bgColor: "#F2EE8D"
-  },
-  {
-    id: Math.random(),
-    title: "Box titulo 4",
-    text: lorem,
-    bgColor: "#9FEACD"
+    title: "Loja Parceira da Magalu",
+    text: "Sabe aquelas melhores ofertas do Magazine Luiza? estão todas aqui!!!",
+    bgColor: "#4B83F9",
+    link:"https://www.magazinevoce.com.br/magazinexrogers",
+    img: imgMagalu,
+    alt: "Loja Parceira Magalu"
   }
 ];
 

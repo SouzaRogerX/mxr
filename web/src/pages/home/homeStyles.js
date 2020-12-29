@@ -22,6 +22,8 @@ export const Box = styled.div`
   margin: ${px2vw(20)};
   background-color: ${props => props.bgColor};
   height: 100%;
+  align-items: center;
+  justify-content: center;
 
   @media (min-width: 768px) {
     width: ${px2vw(320, 768)};
@@ -38,20 +40,24 @@ export const Box = styled.div`
 
 export const BoxTitle = styled.h3`
   color: #333;
-  font-size: 2rem;
+  font-size: 2.2rem;
   text-align: center;
 
   @media (min-width: 1024px) {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 `;
 
 export const BoxText = styled.p`
   margin-top: ${px2vw(20)};
-  color: #666;
-  font-size: 1.5rem;
+  color: #333;
+  font-size: 1.7rem;
+  text-align: center;
+  margin-top: 20px;
+  padding: 0px 0px 10px 0px;
+
 
   @media (min-width: 1024px) {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
 `;

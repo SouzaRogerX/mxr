@@ -9,6 +9,9 @@ export default function Home({ boxData }) {
         <Box key={box.id} bgColor={box.bgColor}>
           <BoxTitle>{box.title}</BoxTitle>
           <BoxText>{box.text}</BoxText>
+          <a href={box.link}>
+              <img src={box.img} alt={box.alt} />
+            </a>
         </Box>
       ))}
     </Container>
