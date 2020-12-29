@@ -2,8 +2,6 @@ import React from 'react'
 
 import { FiArrowRight } from 'react-icons/fi'
 
-import Landing from '../pages/landing';
-
 import '../styles/pages/home.css'
 
 import logoImg from '../images/logo.png'
