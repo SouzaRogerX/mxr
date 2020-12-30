@@ -5,17 +5,27 @@ import Global from "../styles/global"
 import Home from "../pages/home/home"
 
 import logoImg from '../images/logo.png'
-import imgNatura from '../images/natura2.png'
-import imgMagalu from '../images/magalu1.png'
+import imgNatura from '../images/natura.png'
+import imgMagalu from '../images/magaluxr.png'
+import imgEntrarGrupo from '../images/entraGrupo.png'
 
 const data = [
+  {
+    id: Math.random(),
+    title: "Magazine XRogers",
+    text: "Neste grupo exclusivo no WhatsApp todos os dias você encontra as melhores ofertas",
+    bgColor: "#FFFFFF",
+    link:"",
+    img: logoImg,
+    alt: "Grupo WhatsApp"
+  },
   {
     id: Math.random(),
     title: "Grupo Exclusivo no WhatsApp",
     text: "Neste grupo exclusivo no WhatsApp todos os dias você encontra as melhores ofertas",
     bgColor: "#00E676",
     link:"https://chat.whatsapp.com/5Vg6POBjtch9NUZmg6IgrM",
-    img: logoImg,
+    img: imgEntrarGrupo,
     alt: "Grupo WhatsApp"
   },
   {
