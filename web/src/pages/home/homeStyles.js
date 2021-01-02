@@ -8,7 +8,7 @@ export const Container = styled.div`
   margin: ${px2vw(32)};
   max-width: 100%;
 
-  @media (min-width: 1024px) {
+  @media (min-width: 1824px) {
     flex-wrap: nowrap;
   }
 `;
@@ -32,7 +32,7 @@ export const Box = styled.div`
     height: 100%;
   }
 
-  @media (min-width: 1024px) {
+  @media (min-width: 1824px) {
     width: ${px2vw(500)};
     min-height: ${px2vw(300)};
     height: 100%;
@@ -44,7 +44,7 @@ export const BoxTitle = styled.h3`
   font-size: 3.2rem;
   text-align: center;
 
-  @media (min-width: 1024px) {
+  @media (min-width: 1824px) {
     font-size: 1.7rem;
   }
 `;
@@ -58,7 +58,7 @@ export const BoxText = styled.p`
   padding: 0px 0px 10px 0px;
 
 
-  @media (min-width: 1024px) {
+  @media (min-width: 1824px) {
     font-size: 1.0rem;
   }
 `;
