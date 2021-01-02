@@ -52,7 +52,7 @@ const data = [
   {
     id: Math.random(),
     title: "PicPay",
-    text: "Com o PicPay você recebe e envia dinheiro para outras pessoas, paga contas, estabelecimentos, compra créditos para o celular e muito mais. Na hora, pelo seu celular. Receber Dinheiro. Recarga De Celular. Pagamentos Com QR Code.",
+    text: "Com o PicPay você recebe e envia dinheiro para outras pessoas, paga contas, estabelecimentos, compra créditos para o celular e muito mais... Na hora, pelo seu celular! e que tal ganhar R$10 pra experimentar o app... Clica logo!!!",
     bgColor: "#38C86E",
     link:"http://www.picpay.com/convite?21UFZG",
     img: imgPicPay,
@@ -70,7 +70,7 @@ const data = [
   {
     id: Math.random(),
     title: "MercadoPago",
-    text: "Transferências, Recargas, Maquininha, Link de Pagamento e Ainda Rende Mais que a Poupança. Conta Digital, Recarga, transferência, Soluções de Pagamento e Mais em um único APP! Compre Sua Maquininha. Serviços: Pagamento de Contas, Link de Pagamento.",
+    text: "Transferências, Recargas, Maquininha de Cartão, Link de Pagamento e Ainda Rende Mais que a Poupança e muito mais em um único APP!!! Compre Sua Maquininha o quanto antes com descontos incriveis...",
     bgColor: "#63C3ED",
     link:"https://www.mercadopago.com.br/point/invite?code=1D4I8",
     img: imgMercadoPago,
