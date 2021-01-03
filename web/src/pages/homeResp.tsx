@@ -25,7 +25,7 @@ const data = [
   {
     id: Math.random(),
     title: "Grupo Exclusivo no WhatsApp",
-    text: "Entre no grupo exclusivo ''Ofertas XROGERS'' no WhatsApp e fique sabendo primeiro das melhores ofertas e descontos exclusivos!!!",
+    text: "Entre no grupo exclusivo ''Ofertas XROGERS'' no WhatsApp e receba as melhores ofertas, promoções e descontos exclusivos!!!",
     bgColor: "#00E676",
     link:"https://chat.whatsapp.com/5Vg6POBjtch9NUZmg6IgrM?lang=pt_br",
     img: imgEntrarGrupo,
@@ -34,7 +34,7 @@ const data = [
   {
     id: Math.random(),
     title: "Consultoria Natura",
-    text: "Conheça as fragrâncias da Casa da Perfumaria do Brasil que além de possuir a maior variedade de perfumes exclusivos, também conta com cosméticos, maquiagens, cabelos e presentes. E no consultor XROGERS você encontra descontos exclusivos!!!",
+    text: "Conheça as fragrâncias da Casa da Perfumaria do Brasil que além de possuir a maior variedade de perfumes, também conta com cosméticos, maquiagens, e presentes. E no consultor XROGERS você encontra descontos especiais!!!",
     bgColor: "#F86D2A",
     link:"https://www.natura.com.br/consultoria/xrogers",
     img: imgNatura,
