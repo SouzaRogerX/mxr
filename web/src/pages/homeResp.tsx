@@ -70,7 +70,7 @@ const data = [
   {
     id: Math.random(),
     title: "MercadoPago",
-    text: "Transferências, Recargas, Maquininha de Cartão, Link de Pagamento e Ainda Rende Mais que a Poupança e muito mais em um único APP!!! Compre Sua Maquininha o quanto antes com descontos incriveis...",
+    text: "Recargas, Transferências, Maquininha de Cartão, Link de Pagamento e Ainda Rende Mais que a Poupança e muito mais em um único APP!!! Compre Sua Maquininha o quanto antes com descontos incriveis...",
     bgColor: "#63C3ED",
     link:"https://www.mercadopago.com.br/point/invite?code=1D4I8",
     img: imgMercadoPago,
