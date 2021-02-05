@@ -16,7 +16,7 @@ const data = [
   {
     id: Math.random(),
     title: "Magazine XROGERS",
-    text: "Aqui no Magazine XROGERS você encontra os melhores parceiros com condições, ofertas e descontos exclusivos e os melhores aplicativos de pagamento!!!",
+    text: "Aqui no Magazine XROGERS você encontra os melhores parceiros com condições, ofertas e descontos exclusivos e os melhores aplicativos de pagamento!",
     bgColor: "#FFFFFF",
     link:"https://www.facebook.com/MagazineXROGERS",
     img: logoImg,
