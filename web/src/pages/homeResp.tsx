@@ -25,7 +25,7 @@ const data = [
   {
     id: Math.random(),
     title: "Grupo Exclusivo no WhatsApp",
-    text: "Entre no grupo exclusivo ''Ofertas XROGERS'' no WhatsApp e receba as melhores ofertas, promoções e descontos exclusivos!!!",
+    text: "Entre no grupo exclusivo ''Ofertas XROGERS'' no WhatsApp e receba as melhores ofertas, promoções e descontos exclusivos!!! Mande uma mensagem para o Wats 15-99803-0168 e ganhe 5% de desconto em todos os produtos Natura ;)",
     bgColor: "#00E676",
     link:"https://chat.whatsapp.com/5Vg6POBjtch9NUZmg6IgrM?lang=pt_br",
     img: imgEntrarGrupo,
